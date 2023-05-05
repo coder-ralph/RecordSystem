@@ -1,0 +1,5 @@
+C:\Users\ralph\Music\RecordSystem\RecordSystem\RecordSystem\bin\Release\net6.0-windows\publish\RecordSystem.exe
+C:\Users\ralph\Music\RecordSystem\RecordSystem\RecordSystem\bin\Release\net6.0-windows\publish\RecordSystem.dll
+C:\Users\ralph\Music\RecordSystem\RecordSystem\RecordSystem\bin\Release\net6.0-windows\publish\RecordSystem.deps.json
+C:\Users\ralph\Music\RecordSystem\RecordSystem\RecordSystem\bin\Release\net6.0-windows\publish\RecordSystem.runtimeconfig.json
+C:\Users\ralph\Music\RecordSystem\RecordSystem\RecordSystem\bin\Release\net6.0-windows\publish\RecordSystem.pdb
